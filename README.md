@@ -1,6 +1,10 @@
+# Task Hub for Bricks
 My solution to a case study to create a Task Management System. 
 
-Tech stack:
+# Link to the live website:
+
+
+# Tech stack:
 1. HTML
 2. CSS
 3. JavaScript
